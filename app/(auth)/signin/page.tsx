@@ -1,8 +1,5 @@
 "use client";
-export const metadata = {
-  title: 'Contactez nous',
-  description: 'Page description',
-}
+
 
 
 import dataeng from '@/public/json/englishData.json'
