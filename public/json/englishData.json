@@ -1,0 +1,87 @@
+[
+    {
+        "data": {
+            "navigatordata": [
+                {
+                    "text": "Home",
+                    "route": "#hero"
+                },
+                {
+                    "text": "Services",
+                    "route": "#service"
+                },
+                {
+                    "text": "Products",
+                    "route": "#produit"
+                }
+            ],
+            "anglais": "French",
+            "slogan": "Tomorow is now, let's build the futur!",
+            "nous_contactez": "Contact us",
+            "a_propos": "About",
+            "qui_nous_sommes": "Who are we?",
+            "text_qui_nous_sommes": "We are a company providing IT services, more precisely in the design of websites, mobile and winform applications, in computer graphics and training. Based in Yaoundé (Cameroon), we work with numerous local and international organizations with the aim of supporting them by providing them with innovative solutions at the cutting edge of modern technology.",
+            "nos_services": "Our services",
+            "text_nos_services": "We provide quality and fast service.",
+            "services_data": [
+                {
+                    "titre": "Web, Mobile and PC development",
+                    "text": "Achieve your goals faster with BigBang experts on your team tackling tough problems alongside you."
+                },
+                {
+                    "titre": "Technical Advice",
+                    "text": "Enable your team to get the most out of technology. Make sure your solutions are secure and reliable."
+                },
+                {
+                    "titre": "Website design and administration",
+                    "text": "A website adapted to your activity is an important thing for meeting new customers and increasing your visibility."
+                }
+            ],
+            "nos_produits": "Our products",
+            "text_nos_produits_1": "Discover our latest achievements.",
+            "produits_data": [
+                {
+                    "sous_titre": "Web and mobile applications",
+                    "titre": "Tutankha",
+                    "text": "Online Quiz App Click here to download Tutankha app for free. Currently available on Google Play and Apple Store."
+                }
+            ],
+            "text_nos_produits_2": "Easy and effective, we carry out your projects quickly and at a lower cost.",
+            "aptitudes": [
+                {
+                    "titre": "Fast service",
+                    "text": "Fast and efficient, our services are always of high quality to satisfy all your needs."
+                },
+                {
+                    "titre": "A team of experts",
+                    "text": "Our professional and qualified teams respond to all your needs as quickly as possible."
+                },
+                {
+                    "titre": "Guaranteed guarantee",
+                    "text": "We assure you a 03-month warranty on all our fee-paid services for all your quality needs."
+                },
+                {
+                    "titre": "Quality monitoring",
+                    "text": "Quickly obtain optimal, quality monitoring on all your reference projects."
+                },
+                {
+                    "titre": "Low cost services",
+                    "text": "Because we know that you like to save money, our services are adapted to your budget to allow you to benefit from our extraordinary offers in complete peace of mind."
+                }
+            ],
+            "notre_equipe": "Our team",
+            "newlette_titre": "Stay informed by subscribing to our newsletter",
+            "votre_email": "Your email",
+            "abonner": "subscribe",
+            "liens_rapides": "Quick links",
+            "about_footer": "We are a company providing IT services, more precisely in the design of websites, mobile and winform applications, in computer graphics and training",
+            "copyright": "© Bigbang.com. All rights reserved.",
+            "accepter_les_cookies" : "Accept cookies",
+            "entrer_en_contact" : "Get in touch",
+            "nom_prenom" : "First and last name",
+            "adresse_e_mail" : "E-mail address",
+            "num_tel" : "Phone number",
+            "envoyer" : "Send"
+        }
+    }
+]

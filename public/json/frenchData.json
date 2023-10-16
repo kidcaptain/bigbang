@@ -1,0 +1,87 @@
+[
+    {
+        "data": {
+            "navigatordata": [
+                {
+                    "text": "Accueil",
+                    "route": "#hero"
+                },
+                {
+                    "text": "Services",
+                    "route": "#service"
+                },
+                {
+                    "text": "Produits",
+                    "route": "#produit"
+                }
+            ],
+            "anglais": "French",
+            "slogan": "Tomorow is now, let's build the futur!",
+            "nous_contactez": "Nous contactez",
+            "a_propos": "A propos",
+            "qui_nous_sommes": "Qui sommes-nous?",
+            "text_qui_nous_sommes": "Nous sommes une entreprise de prestation de services informatiques, plus précisement dans la conception de site web, d'application mobile et winform, dans l'infographie et la formation. Basée à Yaoundé(Cameroun), nous intervenons auprès de nombreux organismes locaux et internationaux dans l'optique de les accompagner en mettant à leur disposition des solutions innovantes à la pointe de la technologie moderne.",
+            "nos_services": "Nos services",
+            "text_nos_services": "Nous fournissons un service de qualité et rapide.",
+            "services_data" : [
+                {
+                    "titre": "Dévéloppement Web, Mobile et Pc",
+                    "text": "Atteignez vos objectifs plus rapidement grâce aux experts BigBang de votre équipe qui s'attaquent aux problèmes difficiles à vos côtés."
+                },
+                {
+                    "titre": "Conseils Techniques",
+                    "text": "Permettez à votre équipe de tirer le meilleur parti de la technologie. Assurez-vous que vos solutions sont sécurisées et fiables."
+                },
+                {
+                    "titre": "Conception & Administration des sites web",
+                    "text": "Un site web adapté à votre activité est une chose importante pour rencontrer de nouveaux client et augmenter votre visibilité."
+                }
+            ],
+            "nos_produits": "Nos produits",
+            "text_nos_produits_1": "Découvrez nos dernières réalisations.",
+            "produits_data": [
+                {
+                    "sous_titre": "Applications web et mobile",
+                    "titre": "Tutankha",
+                    "text": "Application de quiz en ligne Cliquer ici pour télécharger gratuitement l'application Tutankha. Actualement disponible sur Google Play et Apple Strore."
+                }
+            ],
+            "text_nos_produits_2": "Facile et Effective, nous réalisons vos projets rapidement et à moindre coût.",
+            "aptitudes": [
+                {
+                    "titre": "Fast service",
+                    "text": "Fast and efficient, our services are always of high quality to satisfy all your needs."
+                },
+                {
+                    "titre": "A team of experts",
+                    "text": "Our professional and qualified teams respond to all your needs as quickly as possible."
+                },
+                {
+                    "titre": "Guaranteed guarantee",
+                    "text": "We assure you a 03-month warranty on all our fee-paid services for all your quality needs."
+                },
+                {
+                    "titre": "Quality monitoring",
+                    "text": "Quickly obtain optimal, quality monitoring on all your reference projects."
+                },
+                {
+                    "titre": "Low cost services",
+                    "text": "Because we know that you like to save money, our services are adapted to your budget to allow you to benefit from our extraordinary offers in complete peace of mind."
+                }
+            ],
+            "notre_equipe": "Notre équipe",
+            "newlette_titre": "Restez informé en vous inscrivant à notre newsletter",
+            "votre_email": "Votre email",
+            "abonner": "S'abonner",
+            "liens_rapides": "Liens rapides",
+            "about_footer": "Nous sommes une entreprise de prestation de services informatiques, plus précisement dans la conception de site web, d'application mobile et winform, dans l'infographie et la formation.",
+            "copyright": "© Bigbang.com. Tout droits reservés.",
+            "accepter_les_cookies" : "Accepter les cookies",
+            "entrer_en_contact" : "Entrer en contact",
+            "nom_prenom" : "Nom et prènom",
+            "adresse_e_mail" : "Adresse e-mail",
+            "num_tel" : "Numéro de téléphone",
+            "envoyer" : "Envoyer"
+        }
+    }
+]

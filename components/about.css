@@ -1,0 +1,5 @@
+#about{
+    background-image: url('../public/images/banner.jpeg');
+    background-size: cover;
+    position: relative;
+}
